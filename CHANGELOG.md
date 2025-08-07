@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/listenrightmeow/newk-plugin-react/compare/v1.0.0...v1.0.1) (2025-08-07)
+
+
+### Bug Fixes
+
+* correct NPM scope to [@listenrightmeeow](https://github.com/listenrightmeeow) and add public access ([b4e3c41](https://github.com/listenrightmeow/newk-plugin-react/commit/b4e3c41ee0c0c4ab33abdb75ec3909cff3fa6ddc))
+
 # 1.0.0 (2025-08-07)
 
 
