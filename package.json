@@ -1,5 +1,5 @@
 {
-  "name": "@listenrightmeow/newk-plugin-react",
+  "name": "@listenrightmeeow/newk-plugin-react",
   "version": "1.0.0",
   "description": "React-specific optimizations and component analysis for Newk",
   "type": "module",
@@ -28,7 +28,7 @@
     "vite",
     "webpack"
   ],
-  "author": "@listenrightmeow",
+  "author": "@listenrightmeeow",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -68,5 +68,8 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
